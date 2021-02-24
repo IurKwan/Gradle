@@ -84,6 +84,7 @@ ext {
             "base-popup"               : "com.github.razerdp:BasePopup:2.2.4.1",
             "recyclerview-adapter"     : "com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.4",
             "sqlbrite"                 : "com.squareup.sqlbrite2:sqlbrite:2.0.0",
+            "qmui"                     : "com.qmuiteam:qmui:2.0.0-alpha11",
 
             //test
             "junit"                    : "junit:junit:4.12",
